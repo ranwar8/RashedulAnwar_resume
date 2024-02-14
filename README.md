@@ -8,27 +8,27 @@
 
 ---
 
-## <span style="color: #0074cc;">Professional Summary</span>
+## <span style="color: #00f7a9;">Professional Summary</span>
 
 Results-driven information technology professional with a degree in Computer Systems Technology, specializing in Networking and Cloud Computing. Adept at leveraging practical knowledge and skills in various programming languages to provide effective technical support. Graduated in August 2023, possessing hands-on experience in Azure and AWS cloud platforms with a focus on Network and Security aspects. Proven ability to communicate effectively and collaborate within team environments, honed through successful completion of college projects. Seeking challenging Technical or IT Support positions to apply and further develop my expertise in the field.
 
 ---
 
-## <span style="color: #0074cc;">Skills</span>
+## <span style="color: #00f7a9;">Skills</span>
 
-- **Cloud Computing:** AWS, Azure
-- **Databases:** MS SQL Server 2019, Oracle
-- **Language & Scripting:** Python, Markdown, Bash, PowerShell
-- **Server Role:** Active Directory, DNS, DHCP, IIS, File Services
-- **Operating Systems:** Linux, MacOS, Windows 11/10/8/7/XP, Windows Server 8/12/16/19
-- **Network Infrastructure:** Cisco, routers, switches
-- **Version Control Systems:** Git, Apache
-- **Software:** VMWare, Cisco Packet Tracer, MSOffice, Putty, Visual Studio Code, Splunk
-- **Ticketing System:** Salesforce CRM, Jira
+- **Cloud Computing:** ☁️ [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/)
+- **Databases:** 🛢️ [MS SQL Server 2019](https://www.microsoft.com/en-us/sql-server/), [Oracle](https://www.oracle.com/database/)
+- **Language & Scripting:** 🐍 [Python](https://www.python.org/), [Markdown](https://www.markdownguide.org/), [Bash](https://www.gnu.org/software/bash/), [PowerShell](https://docs.microsoft.com/en-us/powershell/)
+- **Server Role:** 🖥️ [Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview), [DNS](https://en.wikipedia.org/wiki/Domain_Name_System), [DHCP](https://docs.microsoft.com/en-us/windows-server/networking/technologies/dhcp/dhcp-top), [IIS](https://www.iis.net/), [File Services](https://docs.microsoft.com/en-us/windows-server/storage/file-server/)
+- **Operating Systems:** 🐧 [Linux](https://www.linux.org/), [MacOS](https://www.apple.com/macos/), [Windows](https://www.microsoft.com/en-us/windows/)
+- **Network Infrastructure:** 🌐 [Cisco](https://www.cisco.com/), [routers](https://www.cisco.com/c/en/us/products/routers/index.html), [switches](https://www.cisco.com/c/en/us/products/switches/index.html)
+- **Version Control Systems:** 📜 [Git](https://git-scm.com/), [Apache](https://httpd.apache.org/)
+- **Software:** 💻 [VMWare](https://www.vmware.com/), [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer), [MSOffice](https://www.microsoft.com/en-us/microsoft-365/), [Putty](https://www.putty.org/), [Visual Studio Code](https://code.visualstudio.com/), [Splunk](https://www.splunk.com/)
+- **Ticketing System:** 🎫 [Salesforce CRM](https://www.salesforce.com/), [Jira](https://www.atlassian.com/software/jira)
 
 ---
 
-## <span style="color: #0074cc;">Work History</span>
+## <span style="color: #00f7a9;">Work History</span>
 
 ### Help Desk Analyst, Faizia Companies Ltd
 *May 2019 – Jun 2021*
@@ -43,7 +43,7 @@ Results-driven information technology professional with a degree in Computer Sys
 
 ---
 
-## <span style="color: #0074cc;">Projects</span>
+## <span style="color: #00f7a9;">Projects</span>
 
 ### Loading Balancing Using Microsoft Azure (Apr 2023)
 
@@ -85,7 +85,7 @@ Results-driven information technology professional with a degree in Computer Sys
 
 ---
 
-## <span style="color: #0074cc;">Education</span>
+## <span style="color: #00f7a9;">Education</span>
 
 - **Computer System Technician, Seneca College** (2023)
 - **Google Technical Support, Google**
